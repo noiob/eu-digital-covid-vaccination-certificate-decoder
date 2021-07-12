@@ -11,7 +11,7 @@ Auch Testzertifikate oder Genesenenzertifikate können damit dekodiert werden.
 
 Es wird Python3 und einige Module benötigt.
 
-Installation via `pip3 base45 cose` bzw. je nach Installation lautet der Befehl auch nur `pip` statt `pip3`.
+Installation via `pip3 install base45 cose` bzw. je nach Installation lautet der Befehl auch nur `pip` statt `pip3`.
 
 ## Verwendung
 Scannt euren QR-Code mit einer App. Meine Empfehlung hierfür ist der [Cognex Barcode Scanner]( https://play.google.com/store/apps/details?id=com.manateeworks.barcodescanners). Das Programm wird mit diesem String als einziges Argument aufgerufen. Zum Beispiel
